@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ivan Belevtsov
-- 👀 I’m interested in cisco UC scripting and automation
-- 🌱 I’m currently learning python/cisco UCM APIs 
-- 📫 How to reach me: ibelevtsov@gmail.com
+- 👋 Hi, I’m Ivan 
+- 📫 How to reach me: ibelevts@cisco.com
 
 <!---
 ibelevts/ibelevts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

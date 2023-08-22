@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan 
-- 📫 How to reach me: ibelevts@cisco.com
+- 📫 How to reach me: ibelevtsov@gmail.com
 
 <!---
 ibelevts/ibelevts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
